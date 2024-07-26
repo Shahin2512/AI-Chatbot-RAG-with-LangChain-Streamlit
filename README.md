@@ -7,14 +7,22 @@ Document Genie is a powerful Streamlit application designed to extract and analy
 - Streamlit: This application is built with Streamlit. Ensure you have Streamlit installed in your environment.
 
 ## Requirements
-streamlit ,
-google-generativeai ,
-langchain ,
-PyPDF2 ,
-chromadb ,
-faiss-cpu ,
-langchain_google_genai ,
-os .
+streamlit
+
+google-generativeai
+
+langchain
+
+PyPDF2
+
+chromadb
+
+faiss-cpu
+
+langchain_google_genai
+
+os 
+
 
 ## Technical Overview
 PDF Processing: Utilizes PyPDF2 for extracting text from PDF documents.
